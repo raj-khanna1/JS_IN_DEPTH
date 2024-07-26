@@ -1,0 +1,24 @@
+what can we make from JS?
+1. WE CAN DO FRONTEND -> In frontend we have different libraries like : REACT,VIEW,Angular etc..
+               this libraries has used in netflix , AirBnb,Fb,BBC,PAYPAL etc.
+
+2. WE CAN DO BACKEND -> In BACKEND we have different libraries like : NODE.JS,EXPRESS JS etc..
+               this libraries has used in netflix , AirBnb,Fb,UBER,PAYPAL etc.
+
+3. MOBILE APP DEVELOPMENT -> IN THIS WE HAVE REACT NATIVE TO CREATE MULTI-PLATFORM APPS
+                EX: DISCORD
+
+4. DESKTOP APP DEVELOPMENT -> WE HAVE ELECTRON Library for this. ->it is called NATIVE
+                ex: vs code
+
+5.game development(browser wale game),
+
+6. ML ->We have TENSERFLOW
+
+7. EXTENSIONS ALSO..........
+
+note -> js me ; optional hota hai pr lagao.
+        a semicolon represents a instruction.
+        Semicolon also helps in CLEAN CODE. -> it acts like a puctuation.
+        
+
